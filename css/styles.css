@@ -76,9 +76,9 @@ iframe{
 }
 
 hr{
-    border: dotted #EAF6F6;
+    border: 10px dotted #EAF6F6;
     border-bottom: none;
-    width: 4%;
+    width: 10%;
     margin: 100px auto;
 }
 
@@ -98,7 +98,7 @@ p {
 .giphy-embed{
     width: 25%;
     float: left;
-    margin-right: 30px;
+    margin-right: 80px;
 }
 
 .chilli{
